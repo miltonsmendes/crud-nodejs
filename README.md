@@ -22,4 +22,4 @@ The backend utilized technologies such as:
 * Connection between the database and Node.js
 
 ## Requests URL
-- [Create HTTP routes of type (POST, GET, PUT, and DELETE)](https://crud-nodejs-iq8s.onrender.com)
+- Create HTTP routes of type (POST, GET, PUT, and DELETE) : https://crud-nodejs-iq8s.onrender.com
