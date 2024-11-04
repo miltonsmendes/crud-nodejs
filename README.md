@@ -20,3 +20,6 @@ The backend utilized technologies such as:
 
 ## Challenges Encountered During the Test
 * Connection between the database and Node.js
+
+## Requests URL
+- [Create HTTP routes of type (POST, GET, PUT, and DELETE)](https://crud-nodejs-iq8s.onrender.com)
